@@ -1,7 +1,5 @@
 # Supervised_Machine_Learning_Flask_Deployment
 
-I have tried to predict the percentage given the number of hours studied.
-
 For deployment of ML models using Flask, we have the following five subdivisions of work files.
 - static/css contains the styling elements for our webpage.
 - templates contains the html code for the webpage.
